@@ -23,7 +23,7 @@ from aiogram.types import (
 # ══════════════════════ НАСТРОЙКИ ══════════════════════
 TOKEN = "6948724722:AAFkuxkpV7DpKooFMtrlxVLF6d9hc7wJ0ns"
 ADMINS = [5426581017]
-ADMIN_CHAT_ID = -1003442216545
+ADMIN_CHAT_ID = -1003852413098
 SPECIAL_USER_ID = 6739304697
 
 FRUITS = [
